@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1652618180 source:c:\users\hp\desktop\cinema\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"fonctionsCinema.h"
+
+1652573432 c:\users\hp\desktop\cinema\fonctions.h
+
+1652581362 c:\users\hp\desktop\cinema\fonctionscinema.h
+
+1652618182 source:c:\users\hp\desktop\dossier\cinema\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"fonctionsCinema.h"
+
+1653687922 c:\users\hp\desktop\dossier\cinema\fonctionscinema.h
+
